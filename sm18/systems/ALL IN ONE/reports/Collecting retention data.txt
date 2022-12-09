@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: c:\users\sutara\desktop\supermemo-backup\sm18\systems\all in one
+   Date: Friday, December 9, 2022, 5:22:03 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 5:22:03 PM in 00:00:00 sec (Friday, December 9, 2022)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
